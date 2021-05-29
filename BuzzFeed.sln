@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuzzFeed", "BuzzFeed\BuzzFeed.csproj", "{115C52F7-8BC8-422C-A0DC-69C93B25CC87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A5A16924-B565-4F65-86FD-CB87D4A323D6}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115C52F7-8BC8-422C-A0DC-69C93B25CC87}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{115C52F7-8BC8-422C-A0DC-69C93B25CC87}.Debug|anycpu.Build.0 = Debug|anycpu
+		{115C52F7-8BC8-422C-A0DC-69C93B25CC87}.Release|anycpu.ActiveCfg = Release|anycpu
+		{115C52F7-8BC8-422C-A0DC-69C93B25CC87}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAEC9287-7052-4CDD-8ECF-D4760711DA4E}
+	EndGlobalSection
+EndGlobal

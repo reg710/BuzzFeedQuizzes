@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuzzFeed", "BuzzFeed.csproj", "{115C52F7-8BC8-422C-A0DC-69C93B25CC87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115C52F7-8BC8-422C-A0DC-69C93B25CC87}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{115C52F7-8BC8-422C-A0DC-69C93B25CC87}.Debug|anycpu.Build.0 = Debug|anycpu
+		{115C52F7-8BC8-422C-A0DC-69C93B25CC87}.Release|anycpu.ActiveCfg = Release|anycpu
+		{115C52F7-8BC8-422C-A0DC-69C93B25CC87}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {887EDD6C-C24A-4124-AA5F-EC2A950FA0C4}
+	EndGlobalSection
+EndGlobal
