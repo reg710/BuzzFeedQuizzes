@@ -1,6 +1,6 @@
 ﻿# Buzzfeed Quizzes -
 
-This is an Academy PGH project when we were learning SQL. My group initially wrote the code to be able to create a quiz and save it to a SQL database. After the project ended, I worked with a teammate to expand our code to also allow a user to take quiz from a list of options.
+This is an Academy PGH project when we were learning SQL. My group initially wrote the code to be able to create a quiz and save it to a SQL database. After the project ended, I worked with a teammate to expand our code to also allow a user to take quiz from a list of pre-made quizzes.
 
 ## NOTES
 ### MAKING QUIZ
